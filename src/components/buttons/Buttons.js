@@ -14,7 +14,7 @@ const Buttons = ({ quotes, getNewQuote }) => {
         <i className='fab fa-twitter' />
       </button>
       <button id='new-quote' onClick={getNewQuote}>
-        New Quote
+        New Joke
       </button>
     </div>
   );
