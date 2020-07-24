@@ -12,7 +12,13 @@ function App() {
       <Quote />
       {/* Author Currently not used */}
       <Author />
-      <footer>Made with ❤️ by Carl Padilla</footer>
+      <footer>
+        Made with{' '}
+        <span aria-label='Heart' role='img'>
+          ❤️
+        </span>{' '}
+        by Carl Padilla
+      </footer>
     </div>
   );
 }
