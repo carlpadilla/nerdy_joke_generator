@@ -20,7 +20,7 @@ function App() {
           <span aria-label='Heart' role='img'>
             ❤️
           </span>{' '}
-          by Carl Padilla
+          by Carl Padilla 2021
         </footer>
       </div>
     </div>
